@@ -5,7 +5,7 @@ import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 
 public class MyBot extends TelegramLongPollingBot {
 
-    private final String telegramBotToken = "5507168949:AAGyK-hI8rvd0z3IHlwtJtM5o-pHnQrpHK8";
+    private final String telegramBotToken = "";
 
     private final String telegramBotUsername = "Css100SimpleBot";
     private SendMessage response;
